@@ -41,6 +41,7 @@ If you want more detailed instructions, here are the steps to follow:
 13. You should test your code by right-clicking on the code and selecting "Run Python File in Terminal". The results will appear at the bottom. Make sure everything looks the way you would expect
 14. Open the README.md file (which, at this point contains all this information). The purpose of this file is to describe what you code does, so edit it to describe what you are trying to accomplish with your code. Write in your own voice, and try to be helpful to anyone who downloads this project. What are you hoping to accomplish? What should someone expect to see when they run your code? When you are done editing README.md, save the file
 
+I am trying to accomplish knowing how the games system, amd technology work.  I was jealou to people who are younger than me and understand and start working on systems, but now I finally could face the enterance.  I will face a lot of new things in the future.  It sometimes can be fun and sometimes harmful to me, but I can tell that this might be amaizing experiences.  Thus, people who will use this program later on should also feel my mind.  They can expect great moments.  
 ---
 
 15. When you are done editing the files, you should see an icon on the far-left bar that looks like three circles, connected by lines. That icon should be badged with a "3". Push that button now
